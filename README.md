@@ -1,3 +1,6 @@
+# Lively Wallpaper Playlist
+- This scripts will let you use multiple live wallpaper as a playlist (like the slideshow in wallpapers) using lively wallpaper app in windows. 
+
 # How to use
 - Install lively wallpaper app
 - Download and store video wallpapers in a separate folder
